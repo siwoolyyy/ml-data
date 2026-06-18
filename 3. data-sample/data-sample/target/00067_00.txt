@@ -1,0 +1,1 @@
+Dress the person in image 1 with the garment shown in image 2. Preserve the fabric texture, pattern, and color exactly. Keep the person's pose and background unchanged.

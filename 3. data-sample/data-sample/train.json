@@ -1,0 +1,62 @@
+[
+  {
+    "person_image": "person/00006_00.png",
+    "cloth_image": "cloth/00006_00.png",
+    "output_image": "target/00006_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00008_00.png",
+    "cloth_image": "cloth/00008_00.png",
+    "output_image": "target/00008_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00013_00.png",
+    "cloth_image": "cloth/00013_00.png",
+    "output_image": "target/00013_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00017_00.png",
+    "cloth_image": "cloth/00017_00.png",
+    "output_image": "target/00017_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00034_00.png",
+    "cloth_image": "cloth/00034_00.png",
+    "output_image": "target/00034_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00035_00.png",
+    "cloth_image": "cloth/00035_00.png",
+    "output_image": "target/00035_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00055_00.png",
+    "cloth_image": "cloth/00055_00.png",
+    "output_image": "target/00055_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00057_00.png",
+    "cloth_image": "cloth/00057_00.png",
+    "output_image": "target/00057_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00064_00.png",
+    "cloth_image": "cloth/00064_00.png",
+    "output_image": "target/00064_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  },
+  {
+    "person_image": "person/00067_00.png",
+    "cloth_image": "cloth/00067_00.png",
+    "output_image": "target/00067_00.png",
+    "prompt": "Put the clothes from image 2 onto the person in image 1"
+  }
+]

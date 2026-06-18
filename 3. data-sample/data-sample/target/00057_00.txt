@@ -1,0 +1,1 @@
+Put the clothes from image 2 onto the person in image 1, keeping all other elements unchanged!
